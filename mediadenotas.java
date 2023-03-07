@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MediaDeNotas {
+public class mediadenotas {
 
     public static void main(String[] args){
         

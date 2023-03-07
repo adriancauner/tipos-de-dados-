@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class FaixaEtaria {
+public class faixaetaria {
 
     public static void main(String[] args) {
         
@@ -28,6 +28,6 @@ public class FaixaEtaria {
             faixaEtaria = "idoso";
         }
         
-        System.out.printf(nome +  " você está na faixa etária de." + faixaEtaria +  "\n");
+        System.out.printf(nome +  " você está na faixa etária dec" + faixaEtaria +  "\n");
     }
 }
